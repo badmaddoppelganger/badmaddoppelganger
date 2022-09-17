@@ -11,7 +11,7 @@ HR->> Me: Hello Alisher, do you know all the needed for us?  ?
 Me-->>co-HR: What do you think about my skills?
 Me--x HR: I know, yep
 Me-x co-HR: I know it, sure
-Note right of co-HR: He thinks "yes"<br/>and "yes<br/>and "yes" again<br/>:)
+Note right of co-HR: He thinks "yes"<br/>and "yes"<br/>and "yes" again<br/>:)
 
 Me-->HR: Checking with co-HR...
 
