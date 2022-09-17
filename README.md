@@ -2,7 +2,7 @@
 
 #### I work in the [**Samolet** Group](https://samolet.ru/)
 #### My role is the business technology/data analyst/DS/Python developer
-#### If you need the access to my private repository - just ask me:eyes:
+#### If you need the access to my private repositories - just ask me:eyes:
 
 ## UML diagram about my work (with some easter egg)
 
