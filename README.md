@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I work in the [**Samolet** Group](https://samolet.ru/)
-My role is the business technology/data analyst/DS
+My role is the business technology/data analyst/DS/Python developer
 
 ## UML diagram about my work (with some easter egg)
 
