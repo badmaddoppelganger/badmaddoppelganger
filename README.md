@@ -7,14 +7,14 @@ My role is the business technology/data analyst/DS/Python developer
 
 ```mermaid
 sequenceDiagram
-HR->> Me: Hello Alisher, do you know the sequence diagram ?
+HR->> Me: Hello Alisher, do you know all the needed for us?  ?
 Me-->>co-HR: What do you think about my skills?
 Me--x HR: I know, yep
 Me-x co-HR: I know it, sure
 Note right of co-HR: He thinks "yes"<br/>and "yes<br/>and "yes" again<br/>:)
 
 Me-->HR: Checking with co-HR...
-HR->co-HR: Yes... co-HR, he knows the notation?
+HR->co-HR: Yes... co-HR, he knows all the needed for us??
 ```
 
 ## Attribute Matrix
