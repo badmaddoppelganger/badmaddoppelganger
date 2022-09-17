@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-## UML diagram about my work
+I work in the [**Samolet** Group](https://samolet.ru/)
+My role is the business technology/data analyst/DS
+
+## UML diagram about my work (with some easter egg)
 
 ```mermaid
 sequenceDiagram
@@ -12,3 +15,11 @@ Note right of co-HR: He thinks "yes"<br/>and "yes<br/>and "yes" again<br/>:)
 
 Me-->HR: Checking with co-HR...
 HR->co-HR: Yes... co-HR, he knows the notation?
+
+## Attribute Matrix
+
+|                |Hard skills                    |Soft Skills                  |
+|----------------|-------------------------------|-----------------------------|
+|Your vacancy    |1                              |1                            |
+|My resume       |1                              |1                            |
+|Interview       |?                              |?                            |
