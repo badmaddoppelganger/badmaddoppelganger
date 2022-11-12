@@ -4,7 +4,7 @@
 #### My role is the business technology/data analyst/DS/Python developer
 #### If you need the access to my private repositories - just ask me:eyes:
 
-## UML diagram about my work (with some easter egg)
+## UML diagram about my work (with some easter eggs)
 
 ```mermaid
 sequenceDiagram
